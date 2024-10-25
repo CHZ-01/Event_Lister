@@ -1,0 +1,36 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  max-height: 100vh;
+}
+
+.st-emotion-cache-1wwq5o6 {
+  margin-top: 20px;
+}
+
+.st-emotion-cache-lo5cl5 {
+  margin-top: 10px;
+}
+
+.st-emotion-cache-12nccym {
+  margin-top: 10px;
+}
+
+.st-emotion-cache-1jicfl2 {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  padding-left: 8rem;
+  padding-right: 8rem;
+}
+
+[data-testid="stSidebar"] {
+  display: none;
+}
+
+[data-testid="stSidebarCollapsedControl"] {
+  display: none;
+}
+
+[data-testid="stVerticalBlock"] {
+  gap: 10px;
+}
