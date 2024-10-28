@@ -12,7 +12,7 @@ if "pid" not in st.session_state:
 pid = st.session_state.pid
 
 # connect the database
-mydb = con.connect(host="localhost",user="root",passwd="chz0188666",port=3307,database="event_lister")
+mydb = con.connect(host="localhost",user="root",passwd="pass",port=3307,database="event_lister")
 # create a cursor object to execute SQL queries
 mycursor = mydb.cursor(buffered=True)
 
